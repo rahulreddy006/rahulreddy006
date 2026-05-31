@@ -16,7 +16,7 @@ Winner – Internal Smart India Hackathon (SIH) 2025.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulreddy-kattegummula)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kattegummularahul@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portfolio-teal-eta-66wfv5uzj3.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://rahul-portfolio-psi-livid.vercel.app)
 
 ---
 
