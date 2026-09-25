@@ -69,8 +69,7 @@ An AI-powered resume analysis platform that evaluates resumes against job descri
 
 **Tech:** React.js · Node.js · Express.js · PostgreSQL · Prisma · Redis · BullMQ · Socket.io · Gemini AI
 
-[Live Demo](https://resume-optimizer-phi-eight.vercel.app) · [Repository](https://github.com/rahulreddy006/resume-optimizer)
-
+[Live Demo](https://resume-optimizer-phi-eight.vercel.app) 
 ---
 
 ### Local Freelance Job Platform
@@ -89,45 +88,6 @@ A full-stack marketplace designed to connect students with local businesses for 
 **Tech:** React.js · Node.js · Express.js · MongoDB · JWT · Google OAuth · Swagger · Tailwind CSS
 
 [Frontend](https://local-freelance-frontend.vercel.app) · [Backend](https://local-freelance-backend.onrender.com)
-
-[Frontend Repository](https://github.com/rahulreddy006/local-freelance-job-board-frontend) · [Backend Repository](https://github.com/rahulreddy006/local-freelance-job-board-backend)
-
----
-
-### Full Stack E-Commerce Platform
-
-A MERN-based e-commerce application implementing core shopping and administrative workflows.
-
-**Key features**
-
-* User authentication and authorization
-* Product management
-* Shopping cart functionality
-* Admin dashboard
-* Database-backed product and user workflows
-* RESTful backend architecture
-
-**Tech:** React · Node.js · Express.js · MongoDB · JWT
-
-[Repository](https://github.com/rahulreddy006/full-stack-e-commerce)
-
----
-
-### QuickBlog AI
-
-A full-stack blogging platform with AI-assisted content functionality and modern web application architecture.
-
-**Key features**
-
-* Blog creation and management
-* User authentication
-* AI-assisted content functionality
-* Image handling and media management
-* MongoDB-backed application architecture
-
-**Tech:** React · Vite · Node.js · Express.js · MongoDB · Gemini AI
-
-[Repository](https://github.com/rahulreddy006/QUICKBLOG)
 
 ---
 
